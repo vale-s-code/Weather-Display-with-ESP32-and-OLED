@@ -1,6 +1,7 @@
-
 # Weather-Display-with-ESP32-and-OLED  
+
 ## UPDATE - AVAILABLE
+
 This project demonstrates how to build a versatile and dynamic weather display using an ESP32 microcontroller and an OLED screen. The device fetches real-time weather data from the OpenWeatherMap API and displays the current temperature for a user-specified location.  
 
 ## Features  
