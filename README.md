@@ -1,4 +1,4 @@
-# UPDATE - AVAILABLE
+# UPDATE - AVAILABLE IN OTHER REPO
 
 # Weather-Display-with-ESP32-and-OLED  
 
