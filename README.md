@@ -1,5 +1,6 @@
-# Weather-Display-with-ESP32-and-OLED  
 
+# Weather-Display-with-ESP32-and-OLED  
+## UPDATE - AVAILABLE
 This project demonstrates how to build a versatile and dynamic weather display using an ESP32 microcontroller and an OLED screen. The device fetches real-time weather data from the OpenWeatherMap API and displays the current temperature for a user-specified location.  
 
 ## Features  
@@ -66,12 +67,3 @@ To fetch weather data for **Berlin, Germany**:
 2. Once connected, the device fetches weather data from OpenWeatherMap at regular intervals.  
 3. The OLED screen displays the city name, current temperature, and additional error messages if needed.  
 
-## Next Steps  
-
-Consider extending the functionality:  
-- Add support for displaying additional weather details like humidity, wind speed, or weather conditions.  
-- Enable multi-language support for location names and weather descriptions.  
-
-## Contributions  
-
-Feedback and contributions are welcome! If you encounter any issues or have suggestions, feel free to open an issue or create a pull request.  
